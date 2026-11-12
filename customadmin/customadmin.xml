@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<webtop>
+	<section mergeType="merge" id="admin">
+		<subsection mergeType="merge" id="security">
+			<menu mergeType="merge" id="farcryud">
+				<menuitem id="listwbTwoFactor" sequence="30" label="Two-Factor Authentication" typename="wbTwoFactor" />
+			</menu>
+		</subsection>
+	</section>
+</webtop>
